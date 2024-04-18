@@ -1,0 +1,9 @@
+{
+    "name": "InstantMonsterDropFork",
+    "version_number": "0.6.0",
+    "website_url": "https://github.com/mchangrh/InstantMonsterDrop_Fork",
+    "description": "Fork of aedenthorn/InstantMonsterDrop for v0.217.46+",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
